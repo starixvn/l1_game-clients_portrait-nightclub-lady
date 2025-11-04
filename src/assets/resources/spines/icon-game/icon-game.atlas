@@ -1,55 +1,104 @@
 
 icon-game.webp
-size: 365,841
+size: 1172,400
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-3D_light
+bg
   rotate: true
-  xy: 200, 144
+  xy: 741, 202
+  size: 196, 429
+  orig: 196, 429
+  offset: 0, 0
+  index: -1
+bg_3d
+  rotate: true
+  xy: 956, 5
   size: 195, 155
   orig: 212, 200
   offset: 10, 45
   index: -1
-bg
-  rotate: false
-  xy: 2, 178
-  size: 196, 429
-  orig: 200, 434
-  offset: 2, 3
-  index: -1
-lan2
+bg_gamename
   rotate: true
-  xy: 200, 474
-  size: 133, 163
-  orig: 133, 164
+  xy: 804, 4
+  size: 196, 150
+  orig: 196, 429
   offset: 0, 0
   index: -1
-phung2
-  rotate: true
-  xy: 2, 22
-  size: 154, 182
-  orig: 173, 199
-  offset: 12, 17
+canhhoa_1
+  rotate: false
+  xy: 26, 13
+  size: 56, 57
+  orig: 71, 67
+  offset: 8, 7
   index: -1
-rong2
-  rotate: true
-  xy: 186, 2
-  size: 140, 170
-  orig: 146, 177
-  offset: 4, 7
+canhhoa_12
+  rotate: false
+  xy: 172, 3
+  size: 28, 23
+  orig: 31, 25
+  offset: 2, 1
   index: -1
-rua2
-  rotate: true
-  xy: 200, 341
-  size: 131, 156
-  orig: 143, 188
-  offset: 1, 28
+girl_body
+  rotate: false
+  xy: 2, 72
+  size: 193, 326
+  orig: 193, 327
+  offset: 0, 0
   index: -1
-samset
+girl_head
   rotate: true
-  xy: 2, 609
-  size: 230, 344
-  orig: 232, 396
-  offset: 2, 52
+  xy: 211, 16
+  size: 126, 99
+  orig: 126, 99
+  offset: 0, 0
+  index: -1
+light_blue
+  rotate: false
+  xy: 326, 8
+  size: 476, 184
+  orig: 510, 198
+  offset: 26, 12
+  index: -1
+light_neon
+  rotate: true
+  xy: 326, 194
+  size: 204, 413
+  orig: 208, 419
+  offset: 2, 4
+  index: -1
+light_white
+  rotate: true
+  xy: 197, 144
+  size: 254, 127
+  orig: 293, 143
+  offset: 33, 3
+  index: -1
+taitho
+  rotate: true
+  xy: 84, 19
+  size: 51, 86
+  orig: 51, 86
+  offset: 0, 0
+  index: -1
+toc_phai
+  rotate: false
+  xy: 172, 28
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+toc_phai1
+  rotate: true
+  xy: 84, 2
+  size: 15, 44
+  orig: 15, 44
+  offset: 0, 0
+  index: -1
+tocmai_trai
+  rotate: false
+  xy: 2, 10
+  size: 22, 60
+  orig: 22, 60
+  offset: 0, 0
   index: -1

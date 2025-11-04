@@ -1,0 +1,13 @@
+
+mascot.webp
+size: 646,1085
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mascot
+  rotate: false
+  xy: 2, 2
+  size: 642, 1081
+  orig: 642, 1081
+  offset: 0, 0
+  index: -1
