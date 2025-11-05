@@ -1,11 +1,11 @@
 {
-"skeleton": { "hash": "0ZSSDzSA7IN+iKrCZrf06vRXCFI", "spine": "3.8.99" },
+"skeleton": { "hash": "WQfyQngxH+XpMB2IDLpNMPH6F88", "spine": "3.8.99", "x": -93.25, "y": -89.45, "width": 185.3, "height": 185.3 },
 "bones": [
 	{ "name": "root" },
-	{ "name": "frame", "parent": "root" }
+	{ "name": "frame", "parent": "root", "x": -0.6, "y": 3.2, "scaleX": 0.85, "scaleY": 0.85 }
 ],
 "slots": [
-	{ "name": "sequense", "bone": "frame", "blend": "additive" }
+	{ "name": "sequense", "bone": "frame", "attachment": "effect_0", "blend": "additive" }
 ],
 "skins": [
 	{
@@ -39,7 +39,6 @@
 		"slots": {
 			"sequense": {
 				"attachment": [
-					{ "name": "effect_0" },
 					{ "time": 0.0667, "name": "effect_1" },
 					{ "time": 0.1333, "name": "effect_2" },
 					{ "time": 0.2, "name": "effect_3" },
