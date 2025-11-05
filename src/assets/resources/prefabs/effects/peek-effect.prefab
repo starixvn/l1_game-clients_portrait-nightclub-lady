@@ -47,7 +47,7 @@
     "_lscale": {
       "__type__": "cc.Vec3",
       "x": 1,
-      "y": 1.02,
+      "y": 1,
       "z": 1
     },
     "_mobility": 0,
@@ -84,7 +84,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 0,
+      "y": -5,
       "z": 0
     },
     "_lrot": {
@@ -97,7 +97,7 @@
     "_lscale": {
       "__type__": "cc.Vec3",
       "x": 1,
-      "y": 1,
+      "y": 1.02,
       "z": 1
     },
     "_mobility": 0,
@@ -211,7 +211,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 150,
-      "height": 464
+      "height": 467
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
