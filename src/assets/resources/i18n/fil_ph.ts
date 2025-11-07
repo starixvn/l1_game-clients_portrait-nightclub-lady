@@ -261,7 +261,7 @@ export const languages = {
         "label_custom_rounds": "Pasadyang bilang ng mga round",
         "scoreboard_odd": "O",
         "scoreboard_even": "E",
-        "tooltip_double": "Dobleng Nakaraang Bet",
+        "tooltip_double": "Doble",
         "tooltip_sound": "Tunog",
         "tooltip_guide": "Gabay sa Laro",
         "tooltip_fairness": "Fairness",
@@ -280,9 +280,9 @@ export const languages = {
         "auto": "Auto",
         "live_stats": "Mga Live na Estadistika",
         "profit": "Kita",
-        "wins": "Panalo.",
+        "wins": "Panalo sa Round",
         "waggred": "Waggred",
-        "losses": "Mga Pagkalugi",
+        "losses": "Mga Pagkatalo sa Round",
         "all_bets": "Lahat ng Taya\n\n\n",
         "crash_glossary_refund": "Bumalik",
         "glossary_bet": "Taya",
@@ -314,7 +314,10 @@ export const languages = {
         "pop_over_demo_mode": "Ang pagtaya ng 0 ay magpapagana sa Demo Mode",
         "hot_key_disable": "Hindi Pinagana ang mga Hotkey",
         "balance": "BALANCE",
-        "num_of_auto_play": "Bilang ng Auto-Play:"
+        "num_of_auto_play": "Bilang ng Auto-Play:",
+        "big_wins": "Big Wins",
+        "turn_based_pf_settings_para_1": "The final result is determined by a combination of the Server Seed and the Client Seed.\n",
+        "cancel_promotion_message": "Tapos na ang Promosyon. Mangyaring makipag-ugnayan sa Customer Service para sa karagdagang impormasyon. (%{errorCode})"
     },
     "SummerHeat": {
         "game_name": "Summer Heat",
@@ -442,6 +445,10 @@ export const languages = {
         "Close": "Isara"
     },
     "NightclubLady": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
+    },
+    "NightClub": {
         "game_name": "Nightclub Lady",
         "game_icon_name": "Nightclub Lady"
     }

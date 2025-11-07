@@ -1,4 +1,8 @@
 {
-    "mainNamespace": "NightclubLady",
-    "additionalNamespaces": ["Common", "Classicslot", "FreeSpinBonus"]
+    "mainNamespace": "NightClub",
+    "additionalNamespaces": [
+        "Common",
+        "Classicslot",
+        "FreeSpinBonus"
+    ]
 }

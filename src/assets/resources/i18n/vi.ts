@@ -269,7 +269,7 @@ export const languages = {
         "tooltip_stat": "Thống Kê",
         "tooltip_auto": "Tự Động",
         "start_auto_bet": "Bắt đầu cược tự động",
-        "number_of_bet": "Số vòng",
+        "number_of_bet": "Số Phiên",
         "on_win": "Nếu Cược Thắng",
         "on_loss": "Nếu Cược Thua",
         "reset": "Đặt lại",
@@ -280,9 +280,9 @@ export const languages = {
         "auto": "Tự Động",
         "live_stats": "Thống kê trực tiếp",
         "profit": "Lợi nhuận",
-        "wins": "Thắng",
+        "wins": "Phiên Thắng",
         "waggred": "Đã cược",
-        "losses": "Thua",
+        "losses": "Phiên Thua",
         "all_bets": "Tất Cả Cược",
         "crash_glossary_refund": "Hoàn Tiền",
         "glossary_bet": "Cược",
@@ -313,8 +313,11 @@ export const languages = {
         "hot_key_enable": "Đã bật phím tắt",
         "pop_over_demo_mode": "Cược 0 sẽ kích hoạt chế độ chơi thử",
         "hot_key_disable": "Đã tắt phím tắt",
-        "balance": "Số dư",
-        "num_of_auto_play": "Chọn Số Lượt Chơi"
+        "balance": "Số Dư",
+        "num_of_auto_play": "Chọn Số Lượt Chơi",
+        "big_wins": "Thắng Lớn",
+        "turn_based_pf_settings_para_1": "Kết quả cuối cùng được xác định dựa trên sự kết hợp giữa Server Seed và Client Seed.",
+        "cancel_promotion_message": "Chương trình khuyến mãi đã kết thúc. Vui lòng liên hệ bộ phận Chăm sóc khách hàng để biết thêm thông tin. (%{errorCode})"
     },
     "Classicslot": {
         "auto_spin": "Tự Quay",
@@ -442,6 +445,10 @@ export const languages = {
         "Close": "Đóng"
     },
     "NightclubLady": {
+        "game_name": "Gái Nhảy",
+        "game_icon_name": "Gái Nhảy"
+    },
+    "NightClub": {
         "game_name": "Gái Nhảy",
         "game_icon_name": "Gái Nhảy"
     }

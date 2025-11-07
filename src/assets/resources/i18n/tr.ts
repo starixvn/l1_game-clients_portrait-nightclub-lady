@@ -128,7 +128,7 @@ export const languages = {
         "pf_button_clear": "Temizle",
         "pf_button_save": "Kaydet",
         "pf_client_seed_para_1": "(Bahis kabul edildikten sonra tohum değiştirilemez)",
-        "pf_title_provably_fair": "KANITLANABİLİR ADİL",
+        "pf_title_provably_fair": "PROVABLY FAIR",
         "pf_header_server_seed_sha256": "Sunucu Tohumu SHA256",
         "pf_header_server_seed": "Sunucu Tohumu",
         "pf_client_seed_tooltip_para_1": "Müşteri Tohumu oyuncu tarafından oluşturulur.",
@@ -261,7 +261,7 @@ export const languages = {
         "label_custom_rounds": "Özel tur sayısı",
         "scoreboard_odd": "O",
         "scoreboard_even": "E",
-        "tooltip_double": "Önceki Bahsi İkiye Katla",
+        "tooltip_double": "Çiftli",
         "tooltip_sound": "Ses",
         "tooltip_guide": "Oyun Kuralları",
         "tooltip_fairness": "Adillik",
@@ -280,9 +280,9 @@ export const languages = {
         "auto": "Otomatik",
         "live_stats": "Canlı İstatistikler",
         "profit": "Kâr",
-        "wins": "Galibiyetler",
+        "wins": "Tur Kazançları",
         "waggred": "Waggred",
-        "losses": "Kayıplar",
+        "losses": "Kaybedilen Turlar",
         "all_bets": "Tüm Bahisler",
         "crash_glossary_refund": "Geri Ödeme",
         "glossary_bet": "Bahis",
@@ -314,7 +314,10 @@ export const languages = {
         "pop_over_demo_mode": "0 Bahsi Demo Modunu etkinleştirecektir",
         "hot_key_disable": "Kısayol Tuşları Devre Dışı",
         "balance": "BAKİYE",
-        "num_of_auto_play": "Otomatik Oynatma Sayısı:"
+        "num_of_auto_play": "Otomatik Oynatma Sayısı:",
+        "big_wins": "Büyük Kazanır",
+        "turn_based_pf_settings_para_1": "Nihai sonuç, Sunucu Tohumu ve İstemci Tohumu kombinasyonuyla belirlenir.",
+        "cancel_promotion_message": "Promosyon sona erdi. Daha fazla bilgi için lütfen Müşteri Hizmetleri ile iletişime geçin. (%{errorCode})"
     },
     "SummerHeat": {
         "game_name": "Yaz Sıcağı",
@@ -442,6 +445,10 @@ export const languages = {
         "Close": "Kapat"
     },
     "NightclubLady": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
+    },
+    "NightClub": {
         "game_name": "Nightclub Lady",
         "game_icon_name": "Nightclub Lady"
     }

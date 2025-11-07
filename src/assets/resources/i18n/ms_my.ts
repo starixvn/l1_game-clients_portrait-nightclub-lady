@@ -280,9 +280,9 @@ export const languages = {
         "auto": "Auto",
         "live_stats": "Statistik Langsung",
         "profit": "Keuntungan",
-        "wins": "Kemenangan",
+        "wins": "Kemenangan Pusingan",
         "waggred": "Waggred",
-        "losses": "Kerugian",
+        "losses": "Pusingan Kalah",
         "all_bets": "Semua Pertaruhan",
         "crash_glossary_refund": "Bayaran Balik",
         "glossary_bet": "Taruhan",
@@ -314,7 +314,10 @@ export const languages = {
         "pop_over_demo_mode": "Taruhan 0 akan mengaktifkan Mod Demo",
         "hot_key_disable": "Kekunci Pintas Dilumpuhkan",
         "balance": "BALANCE",
-        "num_of_auto_play": "Bilangan Auto-Main:"
+        "num_of_auto_play": "Bilangan Auto-Main:",
+        "big_wins": "Big Wins",
+        "turn_based_pf_settings_para_1": "Keputusan akhir ditentukan oleh gabungan Server Seed dan Client Seed.",
+        "cancel_promotion_message": "Promosi telah tamat. Sila hubungi Khidmat Pelanggan untuk maklumat lanjut. (%{errorCode})"
     },
     "SummerHeat": {
         "game_name": "Summer Heat",
@@ -442,6 +445,10 @@ export const languages = {
         "Close": "Tutup"
     },
     "NightclubLady": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
+    },
+    "NightClub": {
         "game_name": "Nightclub Lady",
         "game_icon_name": "Nightclub Lady"
     }

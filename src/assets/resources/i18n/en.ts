@@ -280,9 +280,9 @@ export const languages = {
         "auto": "Auto",
         "live_stats": "Live Stats",
         "profit": "Profit",
-        "wins": "Wins",
+        "wins": "Round Wins",
         "waggred": "Waggred",
-        "losses": "Losses",
+        "losses": "Round Losses",
         "all_bets": "All Bets",
         "crash_glossary_refund": "Refund",
         "glossary_bet": "Bet",
@@ -314,7 +314,10 @@ export const languages = {
         "pop_over_demo_mode": "Bet 0 will activate Demo Mode",
         "hot_key_disable": "Hotkeys Disabled",
         "balance": "Balance",
-        "num_of_auto_play": "Number of Auto-Play"
+        "num_of_auto_play": "Number of Auto-Play",
+        "big_wins": "Big Wins",
+        "turn_based_pf_settings_para_1": "The final result is determined by a combination of the Server Seed and the Client Seed.",
+        "cancel_promotion_message": "The Promotion has ended. Please contact Customer Service for more information. (%{errorCode}) "
     },
     "Classicslot": {
         "auto_spin": "Auto Spin",
@@ -442,6 +445,10 @@ export const languages = {
         "Close": "Close"
     },
     "NightclubLady": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
+    },
+    "NightClub": {
         "game_name": "Nightclub Lady",
         "game_icon_name": "Nightclub Lady"
     }

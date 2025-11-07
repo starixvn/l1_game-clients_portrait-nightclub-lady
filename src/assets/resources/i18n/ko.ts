@@ -128,7 +128,7 @@ export const languages = {
         "pf_button_clear": "지우기",
         "pf_button_save": "저장",
         "pf_client_seed_para_1": "(베팅이 수락된 후에는 시드를 변경할 수 없습니다)",
-        "pf_title_provably_fair": "공정성 입증",
+        "pf_title_provably_fair": "PROVABLY FAIR",
         "pf_header_server_seed_sha256": "서버 시드 SHA256",
         "pf_header_server_seed": "서버 시드",
         "pf_client_seed_tooltip_para_1": "클라이언트 시드는 플레이어 측에서 생성됩니다.",
@@ -261,7 +261,7 @@ export const languages = {
         "label_custom_rounds": "라운드 수 사용자 지정",
         "scoreboard_odd": "O",
         "scoreboard_even": "E",
-        "tooltip_double": "이전 베팅 두 배",
+        "tooltip_double": "더블",
         "tooltip_sound": "사운드",
         "tooltip_guide": "게임 가이드",
         "tooltip_fairness": "공정성",
@@ -280,9 +280,9 @@ export const languages = {
         "auto": "자동",
         "live_stats": "라이브 통계",
         "profit": "수익",
-        "wins": "승리",
+        "wins": "라운드 승리",
         "waggred": "Waggred",
-        "losses": "손실",
+        "losses": "라운드 패배",
         "all_bets": "모든 베팅",
         "crash_glossary_refund": "환불",
         "glossary_bet": "베팅",
@@ -314,7 +314,10 @@ export const languages = {
         "pop_over_demo_mode": "0을 베팅하면 데모 모드가 활성화됩니다.",
         "hot_key_disable": "단축키 비활성화됨",
         "balance": "잔액",
-        "num_of_auto_play": "자동 플레이 횟수:"
+        "num_of_auto_play": "자동 플레이 횟수:",
+        "big_wins": "빅 승",
+        "turn_based_pf_settings_para_1": "최종 결과는 서버 시드와 클라이언트 시드의 조합으로 결정됩니다.",
+        "cancel_promotion_message": "프로모션이 종료되었습니다. 자세한 내용은 고객 서비스에 문의하십시오. (%{errorCode})"
     },
     "SummerHeat": {
         "game_name": "여름 열기",
@@ -442,6 +445,10 @@ export const languages = {
         "Close": "닫기"
     },
     "NightclubLady": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
+    },
+    "NightClub": {
         "game_name": "Nightclub Lady",
         "game_icon_name": "Nightclub Lady"
     }
