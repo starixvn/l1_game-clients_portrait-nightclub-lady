@@ -280,9 +280,9 @@ export const languages = {
         "auto": "ऑटो",
         "live_stats": "लाइव आँकड़े",
         "profit": "मुनाफ़ा",
-        "wins": "जीत",
+        "wins": "राउंड जीत",
         "waggred": "Waggred",
-        "losses": "हानियाँ",
+        "losses": "राउंड में हार",
         "all_bets": "सभी बेट्स",
         "crash_glossary_refund": "रिफंड",
         "glossary_bet": "शर्त",
@@ -312,7 +312,12 @@ export const languages = {
         "auto_bet_warning": "Auto Bet को सक्षम करने पर, खिलाड़ी इसके उपयोग के लिए पूरी जिम्मेदारी स्वीकार करते हैं, और गेम प्रदाता किसी भी परिणाम के लिए कोई दायित्व नहीं लेता है।",
         "hot_key_enable": "हॉटकी सक्षम की गई हैं",
         "pop_over_demo_mode": "शर्त 0 डेमो मोड को सक्रिय करेगा",
-        "hot_key_disable": "हॉटकी अक्षम की गई"
+        "hot_key_disable": "हॉटकी अक्षम की गई",
+        "balance": "बैलेंस",
+        "num_of_auto_play": "ऑटो-प्ले की संख्या:",
+        "big_wins": "Big Wins",
+        "turn_based_pf_settings_para_1": "अंतिम परिणाम सर्वर Seed और क्लाइंट Seed के संयोजन द्वारा निर्धारित किया जाता है।",
+        "cancel_promotion_message": "यह प्रमोशन समाप्त हो गया है। अधिक जानकारी के लिए कृपया ग्राहक सेवा से संपर्क करें। (%{errorCode})"
     },
     "SummerHeat": {
         "game_name": "Summer Heat",
@@ -438,6 +443,14 @@ export const languages = {
         "total_win": "कुल जीत",
         "Unexpected_gift_code_error_message": "अप्रत्याशित त्रुटि हुई. कृपया बाद में पुन: प्रयास करें.",
         "Close": "बंद करें"
+    },
+    "NightclubLady": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
+    },
+    "NightClub": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
     }
 };
 

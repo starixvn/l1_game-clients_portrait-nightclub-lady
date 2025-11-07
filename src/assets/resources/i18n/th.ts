@@ -261,7 +261,7 @@ export const languages = {
         "label_custom_rounds": "จำนวนรอบที่กำหนดเอง",
         "scoreboard_odd": "คี่",
         "scoreboard_even": "คู่",
-        "tooltip_double": "เดิมพันสองเท่าก่อนหน้า",
+        "tooltip_double": "สองเท่า",
         "tooltip_sound": "เสียง",
         "tooltip_guide": "คู่มือเกม",
         "tooltip_fairness": "ยุติธรรม",
@@ -280,9 +280,9 @@ export const languages = {
         "auto": "อัตโนมัติ",
         "live_stats": "สถิติสด",
         "profit": "กำไร",
-        "wins": "ชนะ",
+        "wins": "ชนะในรอบ",
         "waggred": "Waggred",
-        "losses": "การสูญเสีย",
+        "losses": "รอบที่แพ้",
         "all_bets": "การเดิมพันทั้งหมด",
         "crash_glossary_refund": "คืนเงิน",
         "glossary_bet": "เดิมพัน",
@@ -309,10 +309,15 @@ export const languages = {
         "pop_over_on_loss_reset": "กลับไปที่เดิมพันเริ่มต้นของคุณหลังจากแพ้",
         "pop_over_on_loss_increase_by": "เพิ่มเงินเดิมพันของคุณตามเปอร์เซ็นต์ที่กำหนดเมื่อคุณแพ้",
         "pop_over_on_loss_example": "(ตัวอย่าง: ตั้งค่า +50% → เริ่มต้นด้วย $10 → แพ้ → เดิมพันครั้งต่อไป $15)",
-        "auto_bet_warning": "เมื่อเปิดใช้งาน Auto Bet ผู้เล่นยอมรับความรับผิดชอบอย่างเต็มที่สำหรับการใช้งาน และผู้ให้บริการเกมจะไม่รับผิดชอบต่อผลลัพธ์ใดๆ",
-        "hot_key_enable": "เปิดใช้งาน Hotkeys",
+        "auto_bet_warning": "เมื่อเปิดใช้งาน เดิมพันอัตโนมัติ ผู้เล่นยอมรับความรับผิดชอบอย่างเต็มที่สำหรับการใช้งาน และผู้ให้บริการเกมจะไม่รับผิดชอบต่อผลลัพธ์ใดๆ",
+        "hot_key_enable": "เปิดใช้งานปุ่มลัดแล้ว",
         "pop_over_demo_mode": "เดิมพัน 0 จะเปิดใช้งานโหมดทดลองเล่น",
-        "hot_key_disable": "ปิดใช้งานปุ่มลัด"
+        "hot_key_disable": "ปิดใช้งานปุ่มลัด",
+        "balance": "ยอดคงเหลือ",
+        "num_of_auto_play": "จำนวนการ เล่นอัตโนมัติ:",
+        "big_wins": "ชนะรางวัลใหญ่",
+        "turn_based_pf_settings_para_1": "ผลลัพธ์สุดท้ายจะถูกกำหนดโดยการรวมกันของ Server Seed และ Client Seed",
+        "cancel_promotion_message": "โปรโมชั่นสิ้นสุดแล้ว กรุณาติดต่อฝ่ายบริการลูกค้าสำหรับข้อมูลเพิ่มเติม (%{errorCode})"
     },
     "Classicslot": {
         "auto_spin": "สปินอัตโนมัติ",
@@ -438,6 +443,14 @@ export const languages = {
         "total_win": "ยอดชนะรวม",
         "Unexpected_gift_code_error_message": "เกิดข้อผิดพลาดที่ไม่คาดคิด โปรดลองอีกครั้งในภายหลัง",
         "Close": "ปิด"
+    },
+    "NightclubLady": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
+    },
+    "NightClub": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
     }
 };
 

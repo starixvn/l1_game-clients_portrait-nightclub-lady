@@ -280,9 +280,9 @@ export const languages = {
         "auto": "স্বয়ংক্রিয়",
         "live_stats": "সরাসরি পরিসংখ্যান",
         "profit": "লাভ",
-        "wins": "জয়",
+        "wins": "রাউন্ড জয়",
         "waggred": "Waggred",
-        "losses": "ক্ষতি",
+        "losses": "রাউন্ডের ক্ষয়ক্ষতি",
         "all_bets": "সমস্ত বেট",
         "crash_glossary_refund": "রিফান্ড",
         "glossary_bet": "বাজি",
@@ -291,7 +291,7 @@ export const languages = {
         "title_multiplier": "গুণক",
         "crash_start_in": "শুরু হবে %{time}",
         "crashed": "বিধ্বস্ত",
-        "start": "শুরু করুন",
+        "start": "শুরু",
         "max": "সর্বোচ্চ",
         "stop_auto_bet": "অটো বেট বন্ধ করুন",
         "msg_rotate_to_portrait": "খেলতে আপনার স্ক্রিনটি পোর্ট্রেট মোডে ঘোরান",
@@ -309,10 +309,15 @@ export const languages = {
         "pop_over_on_loss_reset": "হারার পরে আপনার শুরুর বাজিতে ফিরে যান।",
         "pop_over_on_loss_increase_by": "হারলে একটি নির্দিষ্ট শতাংশে আপনার বাজি বাড়ান।",
         "pop_over_on_loss_example": "(উদাহরণ: +50% সেট করুন → $10 দিয়ে শুরু করুন → হারুন → পরবর্তী বাজি $15)।",
-        "auto_bet_warning": "স্ক্রিপ্টের ব্যবহার ঐচ্ছিক এবং খেলোয়াড়দের যেকোন সম্ভাব্য ঝুঁকির জন্য সম্পূর্ণ দায়িত্ব নিতে হবে। আমরা এই ব্যাপারে দায়ী থাকব না।",
+        "auto_bet_warning": "অটো বেট সক্রিয় করার মাধ্যমে, খেলোয়াড়গণ এর ব্যবহারের জন্য সম্পূর্ণ দায়বদ্ধ থাকবেন, এবং গেম প্রদানকারী কোনো ফলাফলের জন্য দায়ী থাকবে না।",
         "hot_key_enable": "হটকি সক্রিয় করা হয়েছে",
         "pop_over_demo_mode": "বেট 0 ডেমো মোড সক্রিয় করবে",
-        "hot_key_disable": "হটকী নিষ্ক্রিয় করা হয়েছে"
+        "hot_key_disable": "হটকী নিষ্ক্রিয় করা হয়েছে",
+        "balance": "ব্যালেন্স",
+        "num_of_auto_play": "অটো-প্লে সংখ্যা:",
+        "big_wins": "Big Wins",
+        "turn_based_pf_settings_para_1": "চূড়ান্ত ফলাফল সার্ভার Seed এবং ক্লায়েন্ট Seed এর সংমিশ্রণে নির্ধারিত হয়।",
+        "cancel_promotion_message": "প্রচারটি শেষ হয়ে গেছে। আরও তথ্যের জন্য গ্রাহক পরিষেবার সাথে যোগাযোগ করুন। (%{errorCode})"
     },
     "SummerHeat": {
         "game_name": "Summer Heat",
@@ -438,6 +443,14 @@ export const languages = {
         "total_win": "মোট জয়",
         "Unexpected_gift_code_error_message": " অপ্রত্যাশিত ত্রুটি ঘটেছে। পরে আবার চেষ্টা করুন।",
         "Close": "বন্ধ"
+    },
+    "NightclubLady": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
+    },
+    "NightClub": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
     }
 };
 

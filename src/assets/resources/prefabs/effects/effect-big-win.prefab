@@ -619,7 +619,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 783,
+      "width": 783.0000000000001,
       "height": 1395
     },
     "_anchorPoint": {

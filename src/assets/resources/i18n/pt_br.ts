@@ -128,7 +128,7 @@ export const languages = {
         "pf_button_clear": "Limpar",
         "pf_button_save": "Salvar",
         "pf_client_seed_para_1": "(Não é possível alterar a semente após a aposta ser aceita)",
-        "pf_title_provably_fair": "PROVAVELMENTE JUSTO",
+        "pf_title_provably_fair": "PROVABLY FAIR",
         "pf_header_server_seed_sha256": "Server Seed SHA256",
         "pf_header_server_seed": "Server Seed",
         "pf_client_seed_tooltip_para_1": "A Semente do Cliente é gerada pelo lado do Jogador.",
@@ -261,7 +261,7 @@ export const languages = {
         "label_custom_rounds": "Número personalizado de rodadas",
         "scoreboard_odd": "O",
         "scoreboard_even": "E",
-        "tooltip_double": "Dobrar Aposta Anterior",
+        "tooltip_double": "Dupla",
         "tooltip_sound": "Som",
         "tooltip_guide": "Regras do Jogo",
         "tooltip_fairness": "Justeza",
@@ -280,9 +280,9 @@ export const languages = {
         "auto": "Automático",
         "live_stats": "Estatísticas ao vivo",
         "profit": "Lucro",
-        "wins": "Vitórias",
+        "wins": "Vitórias da rodada",
         "waggred": "Waggred",
-        "losses": "Perdas",
+        "losses": "Rodadas Perdidas",
         "all_bets": "Todas as Apostas",
         "crash_glossary_refund": "Reembolso",
         "glossary_bet": "Aposta",
@@ -312,7 +312,12 @@ export const languages = {
         "auto_bet_warning": "Ao ativar o Auto Bet, os jogadores aceitam total responsabilidade pelo seu uso, e o provedor do jogo não assume nenhuma responsabilidade por quaisquer resultados.",
         "hot_key_enable": "Teclas de atalho ativadas",
         "pop_over_demo_mode": "A aposta 0 ativará o Modo Demo",
-        "hot_key_disable": "Teclas de atalho desativadas"
+        "hot_key_disable": "Teclas de atalho desativadas",
+        "balance": "SALDO",
+        "num_of_auto_play": "Número de Jogadas Automáticas:",
+        "big_wins": "Grandes vitórias",
+        "turn_based_pf_settings_para_1": "O resultado final é determinado por uma combinação da Semente do Servidor e da Semente do Cliente.",
+        "cancel_promotion_message": "A promoção terminou. Entre em contato com o Serviço de Atendimento ao Cliente para obter mais informações. (%{errorCode})"
     },
     "SummerHeat": {
         "game_name": "Calor de Verão",
@@ -438,6 +443,14 @@ export const languages = {
         "total_win": "Ganho Total",
         "Unexpected_gift_code_error_message": "Ocorreu um erro inesperado. Por favor, tente novamente mais tarde.",
         "Close": "Fechar"
+    },
+    "NightclubLady": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
+    },
+    "NightClub": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
     }
 };
 

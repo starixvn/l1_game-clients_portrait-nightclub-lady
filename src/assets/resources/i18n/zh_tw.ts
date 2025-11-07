@@ -187,7 +187,7 @@ export const languages = {
         "pf_settings_para_1": "最終結果由本輪前五名投注玩家的伺服器種子和客戶種子組合決定。",
         "pf_settings_para_2": "玩家可以更改客戶種子值並從投注歷史記錄中檢查遊戲結果的公平性。",
         "pf_title_new_client_seed": "新客戶種子",
-        "pf_title_provably_fair": "可證明公平",
+        "pf_title_provably_fair": "PROVABLY FAIR",
         "pf_title_provably_fair_settings": "可證明公平的環境",
         "pf_title_verification": "確認",
         "pf_verification_para_1": "最後結果",
@@ -261,7 +261,7 @@ export const languages = {
         "label_custom_rounds": "自訂回合數",
         "scoreboard_odd": "單",
         "scoreboard_even": "雙",
-        "tooltip_double": "雙倍先前的投注",
+        "tooltip_double": "雙倍",
         "tooltip_sound": "音效",
         "tooltip_guide": "遊戲指南",
         "tooltip_fairness": "公平",
@@ -280,9 +280,9 @@ export const languages = {
         "auto": "自動",
         "live_stats": "即時統計",
         "profit": "盈利",
-        "wins": "赢",
+        "wins": "回合獲勝",
         "waggred": "Waggred",
-        "losses": "損失",
+        "losses": "回合損失",
         "all_bets": "全部投注",
         "crash_glossary_refund": "退款",
         "glossary_bet": "賭注",
@@ -303,7 +303,7 @@ export const languages = {
         "hot_key_double_bet": "雙倍下注金額",
         "hot_key_half_bet": "下注金額減半",
         "hot_key_min_bet": "最小投注",
-        "pop_over_on_win_reset": "贏了之後回到您的起始賭注。",
+        "pop_over_on_win_reset": "贏了後，恢復到你的初始投注額。",
         "pop_over_on_win_increase_by": "獲勝時，按設定的百分比提高您的賭注。",
         "pop_over_on_win_example": "（範例：設定 +20% → 從 10 美元開始 → 贏 → 下次投注 12 美元）",
         "pop_over_on_loss_reset": "輸了之後回到您的起始賭注。",
@@ -312,7 +312,12 @@ export const languages = {
         "auto_bet_warning": "啟用自動投注後，玩家將對其使用承擔全部責任，遊戲供應商對任何結果不承擔任何責任。",
         "hot_key_enable": "已啟用熱鍵",
         "pop_over_demo_mode": "下注 0 將激活演示模式",
-        "hot_key_disable": "熱鍵已停用"
+        "hot_key_disable": "熱鍵已停用",
+        "balance": "餘額",
+        "num_of_auto_play": "數量 自動遊戲:",
+        "big_wins": "大贏",
+        "turn_based_pf_settings_para_1": "最終結果由伺服器種子和客戶端種子的組合決定。",
+        "cancel_promotion_message": "促銷已結束。請聯絡客服了解更多資訊。(%{errorCode})"
     },
     "Classicslot": {
         "auto_spin": "自動旋轉",
@@ -438,6 +443,14 @@ export const languages = {
         "total_win": "總獎金",
         "Unexpected_gift_code_error_message": "發生意外錯誤。請稍後重試。",
         "Close": "關閉"
+    },
+    "NightclubLady": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
+    },
+    "NightClub": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
     }
 };
 

@@ -184,7 +184,7 @@ export const languages = {
         "pf_settings_para_1": "Hasil akhir ditentukan oleh kombinasi Server Seed dan Seed Klien dari lima pemain taruhan pertama pada putaran tersebut.",
         "pf_settings_para_2": "Pemain dapat mengubah nilai Seed Klien dan memeriksa kewajaran hasil permainan dari riwayat Taruhan.",
         "pf_title_new_client_seed": "SEED KLIEN BARU",
-        "pf_title_provably_fair": "Terbukti Adil",
+        "pf_title_provably_fair": "PROVABLY FAIR",
         "pf_title_provably_fair_settings": "PENGATURAN YANG TERBUKTI ADIL",
         "pf_title_verification": "Verifikasi",
         "pf_verification_para_1": "Hasil Akhir",
@@ -261,7 +261,7 @@ export const languages = {
         "label_custom_rounds": "Jumlah ronde khusus",
         "scoreboard_odd": "GE",
         "scoreboard_even": "GE",
-        "tooltip_double": "Gandakan Taruhan Sebelumnya",
+        "tooltip_double": "DOUBLE",
         "tooltip_sound": "Suara",
         "tooltip_guide": "Panduan Permainan",
         "tooltip_fairness": "adil",
@@ -280,9 +280,9 @@ export const languages = {
         "auto": "Otomatis",
         "live_stats": "Statistik Langsung",
         "profit": "Keuntungan",
-        "wins": "MENANG",
+        "wins": "Kemenangan Putaran",
         "waggred": "Waggred",
-        "losses": "Kerugian",
+        "losses": "Ronde Kalah",
         "all_bets": "Semua Taruhan",
         "crash_glossary_refund": "Pengembalian dana",
         "glossary_bet": "Taruhan",
@@ -312,7 +312,12 @@ export const languages = {
         "auto_bet_warning": "Dengan mengaktifkan Auto Bet, pemain menerima tanggung jawab penuh atas penggunaannya, dan penyedia game tidak bertanggung jawab atas hasil apa pun.",
         "pop_over_demo_mode": "Taruhan 0 akan mengaktifkan Mode Demo",
         "hot_key_enable": "Hotkeys Diaktifkan",
-        "hot_key_disable": "Tombol Pintas Dinonaktifkan"
+        "hot_key_disable": "Tombol Pintas Dinonaktifkan",
+        "balance": "saldo ",
+        "num_of_auto_play": "Jumlah Auto-Play:",
+        "big_wins": "Kemenangan Besar",
+        "turn_based_pf_settings_para_1": "Hasil akhir ditentukan oleh kombinasi Server Seed dan Client Seed.",
+        "cancel_promotion_message": "Promosi telah berakhir. Silakan hubungi Layanan Pelanggan untuk informasi lebih lanjut. (%{errorCode})"
     },
     "Classicslot": {
         "auto_spin": "Auto Putar",
@@ -438,6 +443,14 @@ export const languages = {
         "total_win": "Total Menang ",
         "Unexpected_gift_code_error_message": "Terjadi kesalahan tak terduga. Silakan coba lagi nanti.",
         "Close": "Tutup"
+    },
+    "NightclubLady": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
+    },
+    "NightClub": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
     }
 };
 

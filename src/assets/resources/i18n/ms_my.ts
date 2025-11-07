@@ -280,9 +280,9 @@ export const languages = {
         "auto": "Auto",
         "live_stats": "Statistik Langsung",
         "profit": "Keuntungan",
-        "wins": "Kemenangan",
+        "wins": "Kemenangan Pusingan",
         "waggred": "Waggred",
-        "losses": "Kerugian",
+        "losses": "Pusingan Kalah",
         "all_bets": "Semua Pertaruhan",
         "crash_glossary_refund": "Bayaran Balik",
         "glossary_bet": "Taruhan",
@@ -312,7 +312,12 @@ export const languages = {
         "auto_bet_warning": "Dengan mendayakan Auto Bet, pemain menerima tanggungjawab penuh untuk penggunaannya, dan pembekal permainan tidak bertanggungjawab terhadap sebarang keputusan.",
         "hot_key_enable": "Kekunci Pintas Didayakan",
         "pop_over_demo_mode": "Taruhan 0 akan mengaktifkan Mod Demo",
-        "hot_key_disable": "Kekunci Pintas Dilumpuhkan"
+        "hot_key_disable": "Kekunci Pintas Dilumpuhkan",
+        "balance": "BALANCE",
+        "num_of_auto_play": "Bilangan Auto-Main:",
+        "big_wins": "Big Wins",
+        "turn_based_pf_settings_para_1": "Keputusan akhir ditentukan oleh gabungan Server Seed dan Client Seed.",
+        "cancel_promotion_message": "Promosi telah tamat. Sila hubungi Khidmat Pelanggan untuk maklumat lanjut. (%{errorCode})"
     },
     "SummerHeat": {
         "game_name": "Summer Heat",
@@ -438,6 +443,14 @@ export const languages = {
         "total_win": "Jumlah Kemenangan",
         "Unexpected_gift_code_error_message": "Ralat tak dijangka berlaku. Sila cuba lagi kemudian.",
         "Close": "Tutup"
+    },
+    "NightclubLady": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
+    },
+    "NightClub": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
     }
 };
 

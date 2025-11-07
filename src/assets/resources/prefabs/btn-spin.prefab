@@ -600,7 +600,7 @@
     },
     "_fillStart": 0,
     "_fillRange": 0,
-    "_isTrimmedMode": false,
+    "_isTrimmedMode": true,
     "_useGrayscale": false,
     "_atlas": {
       "__uuid__": "766602cb-5cd9-48af-8b3c-9eb4f7811514",
@@ -924,7 +924,7 @@
     },
     "_type": 0,
     "_fillType": 0,
-    "_sizeMode": 2,
+    "_sizeMode": 0,
     "_fillCenter": {
       "__type__": "cc.Vec2",
       "x": 0,
@@ -1123,7 +1123,7 @@
     "_string": "99",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
-    "_actualFontSize": 59,
+    "_actualFontSize": 50,
     "_fontSize": 88,
     "_fontFamily": "Arial",
     "_lineHeight": 88,

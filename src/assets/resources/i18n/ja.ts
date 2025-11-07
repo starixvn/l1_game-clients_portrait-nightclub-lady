@@ -187,7 +187,7 @@ export const languages = {
         "pf_settings_para_1": "最終結果は、サーバーシードとラウンド最初の5人のプレイヤーのクライアントシードの組み合わせによって決定されます。",
         "pf_settings_para_2": "プレイヤーはクライアントシード値を変更し、ベット履歴からゲーム結果の公平性を確認できます。",
         "pf_title_new_client_seed": "新規クライアントシード",
-        "pf_title_provably_fair": "プロバブリーフェア",
+        "pf_title_provably_fair": "PROVABLY FAIR",
         "pf_title_provably_fair_settings": "プロバブリーフェア設定",
         "pf_title_verification": "認証",
         "pf_verification_para_1": "最終結果",
@@ -261,7 +261,7 @@ export const languages = {
         "label_custom_rounds": "カスタムラウンド数",
         "scoreboard_odd": "奇",
         "scoreboard_even": "終",
-        "tooltip_double": "前のベットを倍にする",
+        "tooltip_double": "ダブル",
         "tooltip_sound": "サウンド",
         "tooltip_guide": "ゲームガイド",
         "tooltip_fairness": "公平性",
@@ -280,9 +280,9 @@ export const languages = {
         "auto": "自動",
         "live_stats": "ライブ統計",
         "profit": "利益",
-        "wins": "配当",
+        "wins": "ラウンド勝利",
         "waggred": "Waggred",
-        "losses": "損失",
+        "losses": "ラウンド損失",
         "all_bets": "全ベット",
         "crash_glossary_refund": "払い戻し",
         "glossary_bet": "ベット",
@@ -312,7 +312,12 @@ export const languages = {
         "auto_bet_warning": "Auto Betを有効にすると、プレイヤーはその使用に関するすべての責任を負い、ゲームプロバイダーはいかなる結果に対しても責任を負いません。",
         "hot_key_enable": "ホットキー有効",
         "pop_over_demo_mode": "ベット 0 でデモモードが有効になります",
-        "hot_key_disable": "ホットキーは無効です"
+        "hot_key_disable": "ホットキーは無効です",
+        "balance": "残高",
+        "num_of_auto_play": "オートプレイ回数:",
+        "big_wins": "大が勝ち",
+        "turn_based_pf_settings_para_1": "最終結果は、サーバーシードとクライアントシードの組み合わせによって決定されます。",
+        "cancel_promotion_message": "プロモーションは終了しました。詳細については、カスタマーサービスにお問い合わせください。（%{errorCode}）"
     },
     "Classicslot": {
         "auto_spin": "オートスピン",
@@ -438,6 +443,14 @@ export const languages = {
         "total_win": "合計勝利額",
         "Unexpected_gift_code_error_message": "予期せぬエラーが発生しました。後ほどもう一度お試しください。",
         "Close": "閉じる"
+    },
+    "NightclubLady": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
+    },
+    "NightClub": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
     }
 };
 

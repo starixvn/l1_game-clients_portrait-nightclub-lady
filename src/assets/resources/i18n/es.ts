@@ -187,7 +187,7 @@ export const languages = {
         "pf_settings_para_1": "El resultado final se determina mediante una combinación de la Semilla del Servidor y la Semilla del Cliente de los cinco primeros jugadores que apostaron en la ronda.",
         "pf_settings_para_2": "Puedes modificar la Semilla del Cliente y verificar la equidad del resultado de tu partida en el historial de apuestas.",
         "pf_title_new_client_seed": "Nueva Semilla del Cliente",
-        "pf_title_provably_fair": "Demostrablemente Justo",
+        "pf_title_provably_fair": "PROVABLY FAIR",
         "pf_title_provably_fair_settings": "AJUSTES DE JUEGO JUSTO COMPROBABLE",
         "pf_title_verification": "Verificación",
         "pf_verification_para_1": "Resultado Final",
@@ -261,7 +261,7 @@ export const languages = {
         "label_custom_rounds": "Número de rondas personalizado",
         "scoreboard_odd": "I",
         "scoreboard_even": "P",
-        "tooltip_double": "Doblar la apuesta anterior",
+        "tooltip_double": "Doble",
         "tooltip_sound": "Sonido",
         "tooltip_guide": "Guías de Juego",
         "tooltip_fairness": "Equidad",
@@ -280,9 +280,9 @@ export const languages = {
         "auto": "Automático",
         "live_stats": "Estadísticas en vivo",
         "profit": "Beneficio",
-        "wins": "Ganancias",
+        "wins": "Victorias de la ronda",
         "waggred": "Waggred",
-        "losses": "Pérdidas",
+        "losses": "Rondas perdidas",
         "all_bets": "Todas",
         "crash_glossary_refund": "Reembolso",
         "glossary_bet": "Apuesta",
@@ -312,7 +312,12 @@ export const languages = {
         "auto_bet_warning": "Al habilitar Auto Bet, los jugadores aceptan toda la responsabilidad por su uso, y el proveedor del juego no asume ninguna responsabilidad por los resultados.",
         "hot_key_enable": "Teclas de acceso rápido habilitadas",
         "pop_over_demo_mode": "Apostar 0 activará el modo Demo",
-        "hot_key_disable": "Teclas de acceso rápido deshabilitadas"
+        "hot_key_disable": "Teclas de acceso rápido deshabilitadas",
+        "balance": "SALDO",
+        "num_of_auto_play": "Número de giros automáticos:",
+        "big_wins": "Gana la Grande",
+        "turn_based_pf_settings_para_1": "El resultado final se determina por una combinación de la Semilla del Servidor y la Semilla del Cliente.",
+        "cancel_promotion_message": "La promoción ha finalizado. Por favor, contacte con el Servicio de Atención al Cliente para más información. (%{errorCode})"
     },
     "Classicslot": {
         "auto_spin": "Giro Automático",
@@ -438,6 +443,14 @@ export const languages = {
         "total_win": "Ganancia Total",
         "Unexpected_gift_code_error_message": "Se ha producido un error inesperado. Por favor, inténtelo de nuevo más tarde.",
         "Close": "Cerrar"
+    },
+    "NightclubLady": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
+    },
+    "NightClub": {
+        "game_name": "Nightclub Lady",
+        "game_icon_name": "Nightclub Lady"
     }
 };
 
